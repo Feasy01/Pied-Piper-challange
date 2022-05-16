@@ -1,2 +1,2 @@
 # Pied-Piper-challange
-See datasheet for all the info
+See the datasheet for all the info
